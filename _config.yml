@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ajay Bandi"
 title_separator          : "-"
 name                     : &name "Ajay Bandi"
-description              : &description "PhD Candidate at The Mississippi State University, USA"
+description              : &description "Ph.D. Computer Science; Mississippi State University, USA"
 url                      : https://pavanko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pavanko/pavanko.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ajay Bandi"
   avatar           : "bandi.png"
-  bio              : "PhD Candidate at The Mississippi State University, USA"
+  bio              : "Ph.D. Computer Science; Mississippi State University, USA"
   location         : "Missouri, USA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
